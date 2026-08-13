@@ -1,0 +1,105 @@
+---
+title: "Research"
+subtitle: "Projects, positions and fieldwork — from legislative briefings in Srinagar to groundwater monitoring in rural Maharashtra."
+---
+
+## Current project
+
+<div class="entry">
+<span class="entry-meta">Jan 2026 – present</span>
+<div class="entry-title">Junior Research Fellow, Centre for Women's Studies</div>
+<div class="entry-where">Acharya Nagarjuna University · under Prof. Challapalli Swaroopa Rani</div>
+
+A UGC-funded study of how mining-led development is reshaping tribal women's labour and livelihoods in the Eastern Ghats. I contribute literature reviews, evidence synthesis, and drafting on rights, livelihoods and governance questions.
+
+I helped secure the project's grant from the University Grants Commission, designing the proposal's methodology section and preparing the budget and supporting documentation.
+</div>
+
+## Previous positions
+
+<div class="entry">
+<span class="entry-meta">Feb 2025 – Dec 2025</span>
+<div class="entry-title">Policy Researcher</div>
+<div class="entry-where">Office of Waheed Ur Rehman Parra, MLA · Jammu &amp; Kashmir Legislative Assembly</div>
+
+- Drafted policy briefs informing legislative debates on public service delivery and migration governance in a conflict-affected region, synthesising academic evidence, government data and international frameworks.
+- Contributed to a senior fellow-led analysis of a 10,000-row migration dataset from conflict-affected districts using R and Stata, assisting with data preparation and with interpreting findings on displacement drivers and access to education.
+- Conducted a comparative budget analysis of education funding in conflict regions and proposed equity-oriented allocation strategies.
+</div>
+
+<div class="entry">
+<span class="entry-meta">Sept 2024 – Feb 2025</span>
+<div class="entry-title">Project Assistant, Participatory Environmental Governance</div>
+<div class="entry-where">Oakwood Events Management, Pune</div>
+
+- Co-designed community monitoring systems for groundwater and soil health together with village residents — citizen–state co-production whose citizen-informed recommendations were adopted at block development level.
+- Led community-based ecological restoration across three villages, coordinating with local authorities and mobilising 50 resident volunteers.
+</div>
+
+<div class="entry">
+<span class="entry-meta">Aug 2023 – Aug 2024</span>
+<div class="entry-title">Educator</div>
+<div class="entry-where">Visista EM High School, Guntur</div>
+
+Designed inclusive teaching modules that raised average student academic performance by 60% within one academic year, and established literacy programmes that improved English proficiency for half of enrolled students.
+</div>
+
+<div class="entry">
+<span class="entry-meta">May 2022 – Apr 2023</span>
+<div class="entry-title">Assistant Programme Coordinator (part-time)</div>
+<div class="entry-where">National Service Scheme, India</div>
+
+Trained more than 25 volunteers in grassroots democratic mobilisation among marginalised Dalit communities, broadening participation in welfare programmes and engagement with frontline state institutions.
+</div>
+
+## Conferences and seminars
+
+<div class="entry">
+<span class="entry-meta">Mar 2026</span>
+<div class="entry-title">Governance, democratic deficit, and mining policy in tribal India</div>
+<div class="entry-where">National Seminar, Maulana Azad National Urdu University, Hyderabad</div>
+</div>
+
+<div class="entry">
+<span class="entry-meta">Dec 2024</span>
+<div class="entry-title">Identity politics and electoral behaviour: the Bihar and UP elections, 2019–2024</div>
+<div class="entry-where">Politics in the 21st Century, Hyderabad</div>
+</div>
+
+<div class="entry">
+<span class="entry-meta">Feb 2022</span>
+<div class="entry-title">e-Governance and welfare delivery in Andhra Pradesh</div>
+<div class="entry-where">Reimagining 21st Century Public Administration, Acharya Nagarjuna University</div>
+</div>
+
+## Honours and awards
+
+<div class="entry">
+<span class="entry-meta">2026</span>
+<div class="entry-title">Commonwealth Scholarship</div>
+<div class="entry-where">Commonwealth Scholarship Commission in the UK — MSc Public Policy, UCL</div>
+</div>
+
+<div class="entry">
+<span class="entry-meta">2025</span>
+<div class="entry-title">ASEAN Sustainability Scholar</div>
+<div class="entry-where">Global Delegate, Future Action Summit, Bangkok — one of 30 selected worldwide. Also qualified in the National Eligibility Test, Ministry of Education, India.</div>
+</div>
+
+<div class="entry">
+<span class="entry-meta">2023</span>
+<div class="entry-title">Gold Medal, MA Political Science</div>
+<div class="entry-where">Highest-ranked graduate. Awarded a Junior Research Fellowship in Political Science by the Ministry of Education, India, funding an independent project under the supervision of Prof. Swaroopa Rani.</div>
+</div>
+
+<div class="entry">
+<span class="entry-meta">2022</span>
+<div class="entry-title">State First Prize, Essay Competition</div>
+<div class="entry-where">State Human Rights Commission. Also State First Prize in Debating, Ambedkar–Phule Association.</div>
+</div>
+
+<div class="entry">
+<span class="entry-meta">2018</span>
+<div class="entry-title">State First Rank, Class 12</div>
+<div class="entry-where">99.2nd percentile, Board of Intermediate Education</div>
+</div>

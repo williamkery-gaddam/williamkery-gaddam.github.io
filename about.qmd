@@ -1,0 +1,60 @@
+---
+title: "About"
+subtitle: "How I got here, and what I am trying to understand."
+---
+
+## The short version
+
+I am a public policy researcher from Guntur, in coastal Andhra Pradesh. I read Political Science at Acharya Nagarjuna University for both my degrees, finishing the master's as the highest-ranked graduate in my cohort, and I am joining University College London in September 2026 for an MSc in Public Policy as a Commonwealth Scholar.
+
+My research sits at the point where a policy stops being a document and starts being an encounter — a farmer at a bank counter, a village resident at a block office, a teacher in a school that a budget line forgot. I am interested in what the state's own measurements do and do not see at that point.
+
+## What I work on
+
+<ul class="interests">
+<li>State capacity and public administration</li>
+<li>Citizen–state relations and the co-production of public services</li>
+<li>Welfare delivery, targeting, and programme evaluation</li>
+<li>Street-level implementation and bureaucratic performance</li>
+<li>Participatory governance and citizen monitoring</li>
+</ul>
+
+## Education
+
+<div class="entry">
+<span class="entry-meta">Sept 2026 —</span>
+<div class="entry-title">MSc Public Policy</div>
+<div class="entry-where">University College London · Commonwealth Scholar</div>
+</div>
+
+<div class="entry">
+<span class="entry-meta">Nov 2021 – May 2023</span>
+<div class="entry-title">MA Political Science</div>
+<div class="entry-where">Acharya Nagarjuna University, Guntur · Gold Medal, highest-ranked graduate · First Class with Distinction, CGPA 8.03/10</div>
+
+Dissertation: *The Measurement Gap: Efficiency vs. Equity in PM-KISAN Direct Benefit Transfer Evaluation.* A quantitative evaluation showing how administrative delivery metrics obscure welfare targeting failures affecting more than 110 million rural households, with proposals for equity-focused evaluation design.
+
+Coursework: Principles of Public Administration · Research Methodology · Comparative Politics · Political Sociology
+</div>
+
+<div class="entry">
+<span class="entry-meta">Jun 2018 – Aug 2021</span>
+<div class="entry-title">BA Political Science, with minors in Economics and History</div>
+<div class="entry-where">Acharya Nagarjuna University, Guntur · CGPA 8.64/10 · Top 1% of cohort · Prathiba Puraskar Award</div>
+</div>
+
+## Methods
+
+**Qualitative and field-based.** Village-level fieldwork, community engagement, interviews, comparative policy analysis, legislative research, policy brief writing, and grant proposal development including methodology design and budgeting.
+
+**Quantitative.** Working knowledge of R, Stata and SPSS, alongside Excel and Power BI, applied to migration data analysis, comparative budget analysis and welfare delivery tracking. I am building on this ahead of methods training at UCL.
+
+**Fieldwork languages.** Telugu is my first language and I am fluent in Hindi, which lets me run interviews and translation for India-based qualitative work without an intermediary.
+
+## Beyond research
+
+I mentor first-generation students towards higher education as a volunteer with the Eklavya India Foundation. As a student leader in 2022 I helped secure scholarships for more than a thousand students from marginalised backgrounds through collective advocacy with university and state authorities, and between 2021 and 2023 I led outreach at the Mother Teresa Foundation supporting orphaned and elderly people.
+
+## Get in touch
+
+Email is the surest way to reach me: [williamkery786@gmail.com](mailto:williamkery786@gmail.com). I am also on [LinkedIn](https://www.linkedin.com/in/williamkery-gaddam-2453a62a7).

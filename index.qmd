@@ -1,0 +1,24 @@
+---
+title: "Williamkery Gaddam"
+subtitle: "Public policy researcher working on welfare delivery, citizen–state relations and the everyday work of the state in India."
+---
+
+<div class="record">
+<div class="record-row"><span class="record-key">Next</span><span class="record-val">MSc Public Policy, University College London — from September 2026</span></div>
+<div class="record-row"><span class="record-key">Funded by</span><span class="record-val">Commonwealth Scholarship, Commonwealth Scholarship Commission in the UK</span></div>
+<div class="record-row"><span class="record-key">Currently</span><span class="record-val">Junior Research Fellow, Centre for Women's Studies, Acharya Nagarjuna University</span></div>
+<div class="record-row"><span class="record-key">Based in</span><span class="record-val">Guntur, Andhra Pradesh, India</span></div>
+<div class="record-row"><span class="record-key">Languages</span><span class="record-val">Telugu (native) · Hindi (C1) · English (C1)</span></div>
+</div>
+
+## Welcome
+
+My work asks a fairly narrow question with wide consequences: when a welfare programme is judged to be working, who decided what "working" means?
+
+I came to this through my master's dissertation, which evaluated India's PM-KISAN direct benefit transfer scheme and found that the administrative metrics used to track delivery obscured targeting failures affecting rural households the programme was built to reach. Since then I have worked on the other side of the same problem — drafting policy briefs for a member of the Jammu & Kashmir Legislative Assembly on service delivery and migration governance in a conflict-affected region, and co-designing groundwater and soil monitoring systems with village residents whose recommendations were taken up at block development level.
+
+I am joining UCL in September 2026 as a Commonwealth Scholar to read for an MSc in Public Policy. Before that I hold a Gold Medal MA in Political Science from Acharya Nagarjuna University, where I graduated top of my cohort, and I currently hold a Junior Research Fellowship from India's Ministry of Education.
+
+On this site you can read more [about my background](about.qmd), the [research I am doing now](research.qmd), and [what I have written](writing.qmd).
+
+I am always glad to hear from people working on state capacity, targeting, or participatory governance — particularly if you are doing fieldwork in India and need a researcher who speaks Telugu and Hindi. You can reach me at [williamkery786@gmail.com](mailto:williamkery786@gmail.com).

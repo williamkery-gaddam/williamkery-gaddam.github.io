@@ -1,0 +1,27 @@
+---
+title: "CV"
+subtitle: "A full curriculum vitae, updated August 2026."
+---
+
+<div class="record">
+<div class="record-row"><span class="record-key">Download</span><span class="record-val">[Curriculum vitae (PDF)](files/Williamkery-Gaddam-CV.pdf)</span></div>
+<div class="record-row"><span class="record-key">Email</span><span class="record-val">[williamkery786@gmail.com](mailto:williamkery786@gmail.com)</span></div>
+<div class="record-row"><span class="record-key">LinkedIn</span><span class="record-val">[linkedin.com/in/williamkery-gaddam-2453a62a7](https://www.linkedin.com/in/williamkery-gaddam-2453a62a7)</span></div>
+</div>
+
+A summary of my education and positions is on the [about](about.qmd) and [research](research.qmd) pages. The PDF above is the complete version, including referees.
+
+<!--
+TO MAKE THE DOWNLOAD LINK WORK:
+1. Create a folder called `files` next to this file.
+2. Put your CV in it, named exactly: Williamkery-Gaddam-CV.pdf
+3. Add this line to _quarto.yml under `project:` so Quarto copies it across:
+
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+
+4. Render and push.
+-->

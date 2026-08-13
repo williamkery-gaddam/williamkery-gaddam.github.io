@@ -1,0 +1,212 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "DownloadCurriculum vitae (PDF)\n\n\nEmailwilliamkery786@gmail.com\n\n\nLinkedInlinkedin.com/in/williamkery-gaddam-2453a62a7\n\n\nA summary of my education and positions is on the about and research pages. The PDF above is the complete version, including referees."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a public policy researcher from Guntur, in coastal Andhra Pradesh. I read Political Science at Acharya Nagarjuna University for both my degrees, finishing the master’s as the highest-ranked graduate in my cohort, and I am joining University College London in September 2026 for an MSc in Public Policy as a Commonwealth Scholar.\nMy research sits at the point where a policy stops being a document and starts being an encounter — a farmer at a bank counter, a village resident at a block office, a teacher in a school that a budget line forgot. I am interested in what the state’s own measurements do and do not see at that point."
+  },
+  {
+    "objectID": "about.html#the-short-version",
+    "href": "about.html#the-short-version",
+    "title": "About",
+    "section": "",
+    "text": "I am a public policy researcher from Guntur, in coastal Andhra Pradesh. I read Political Science at Acharya Nagarjuna University for both my degrees, finishing the master’s as the highest-ranked graduate in my cohort, and I am joining University College London in September 2026 for an MSc in Public Policy as a Commonwealth Scholar.\nMy research sits at the point where a policy stops being a document and starts being an encounter — a farmer at a bank counter, a village resident at a block office, a teacher in a school that a budget line forgot. I am interested in what the state’s own measurements do and do not see at that point."
+  },
+  {
+    "objectID": "about.html#what-i-work-on",
+    "href": "about.html#what-i-work-on",
+    "title": "About",
+    "section": "What I work on",
+    "text": "What I work on\n\n\nState capacity and public administration\n\n\nCitizen–state relations and the co-production of public services\n\n\nWelfare delivery, targeting, and programme evaluation\n\n\nStreet-level implementation and bureaucratic performance\n\n\nParticipatory governance and citizen monitoring"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nSept 2026 —\n\nMSc Public Policy\n\n\nUniversity College London · Commonwealth Scholar\n\n\n\nNov 2021 – May 2023\n\nMA Political Science\n\n\nAcharya Nagarjuna University, Guntur · Gold Medal, highest-ranked graduate · First Class with Distinction, CGPA 8.03/10\n\nDissertation: The Measurement Gap: Efficiency vs. Equity in PM-KISAN Direct Benefit Transfer Evaluation. A quantitative evaluation showing how administrative delivery metrics obscure welfare targeting failures affecting more than 110 million rural households, with proposals for equity-focused evaluation design.\nCoursework: Principles of Public Administration · Research Methodology · Comparative Politics · Political Sociology\n\n\nJun 2018 – Aug 2021\n\nBA Political Science, with minors in Economics and History\n\n\nAcharya Nagarjuna University, Guntur · CGPA 8.64/10 · Top 1% of cohort · Prathiba Puraskar Award"
+  },
+  {
+    "objectID": "about.html#methods",
+    "href": "about.html#methods",
+    "title": "About",
+    "section": "Methods",
+    "text": "Methods\nQualitative and field-based. Village-level fieldwork, community engagement, interviews, comparative policy analysis, legislative research, policy brief writing, and grant proposal development including methodology design and budgeting.\nQuantitative. Working knowledge of R, Stata and SPSS, alongside Excel and Power BI, applied to migration data analysis, comparative budget analysis and welfare delivery tracking. I am building on this ahead of methods training at UCL.\nFieldwork languages. Telugu is my first language and I am fluent in Hindi, which lets me run interviews and translation for India-based qualitative work without an intermediary."
+  },
+  {
+    "objectID": "about.html#beyond-research",
+    "href": "about.html#beyond-research",
+    "title": "About",
+    "section": "Beyond research",
+    "text": "Beyond research\nI mentor first-generation students towards higher education as a volunteer with the Eklavya India Foundation. As a student leader in 2022 I helped secure scholarships for more than a thousand students from marginalised backgrounds through collective advocacy with university and state authorities, and between 2021 and 2023 I led outreach at the Mother Teresa Foundation supporting orphaned and elderly people."
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in touch",
+    "text": "Get in touch\nEmail is the surest way to reach me: williamkery786@gmail.com. I am also on LinkedIn."
+  },
+  {
+    "objectID": "START-HERE.html",
+    "href": "START-HERE.html",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "Everything is written. You need to install two programs, paste these files into a folder, and click publish. Budget about an hour the first time.\n\n\n\nSign up at https://github.com.\nYour username becomes your web address. If you pick williamkery, your site lives at williamkery.github.io. Choose something you’d put on a CV.\n\n\n\n\n\n\nProgram\nWhere\nWhat it does\n\n\n\n\nQuarto\nhttps://quarto.org/docs/get-started\nTurns these text files into a website\n\n\nGitHub Desktop\nhttps://desktop.github.com\nUploads the site. No command line.\n\n\n\nOptional but recommended: VS Code (https://code.visualstudio.com) for editing. Install its “Quarto” extension from the Extensions tab.\n\n\n\nOn GitHub, click New repository.\n\nName it exactly yourusername.github.io — your real username, all lowercase\nSet it to Public\nTick “Add a README file”\nCreate repository\n\nThen open GitHub Desktop → File → Clone repository → pick it → note the folder it saves into.\n\n\n\nCopy everything from this folder into the folder GitHub Desktop just made. You should end up with _quarto.yml, custom.scss, five .qmd files, and files/ sitting next to the README.md GitHub created.\n\n\n\nSearch for YOUR-LINKEDIN-HANDLE and YOUR-GITHUB-USERNAME and replace them. They appear in _quarto.yml, about.qmd and cv.qmd.\nIn _quarto.yml, also change site-url to your real address.\nThen drop your CV PDF into files/, named Williamkery-Gaddam-CV.pdf, and delete the placeholder text file in there.\n\n\n\nOpen a terminal in the folder. (In VS Code: Terminal → New Terminal. On Windows without VS Code: open the folder in File Explorer, type cmd in the address bar, press Enter.)\nquarto preview\nYour site opens in a browser and refreshes every time you save a file. Press Ctrl+C in the terminal to stop.\nWhen you’re happy:\nquarto render\nThis builds the finished site into a new docs folder.\n\n\n\n\nOpen GitHub Desktop. It lists your new files. Type “first version” in the summary box → Commit to main → Push origin.\nOn GitHub.com go to your repository → Settings → Pages.\nUnder Build and deployment: Source = Deploy from a branch, Branch = main, Folder = /docs. Click Save.\n\nWait two or three minutes, then open yourusername.github.io.\n\n\n\n\nThe loop is always the same:\n\nEdit a .qmd file\nRun quarto render\nCommit and push in GitHub Desktop\n\n\n\n\n\n\n\nFile\nWhat it is\n\n\n\n\n_quarto.yml\nSettings: site title, menu, social links\n\n\ncustom.scss\nAll the styling — colours, fonts, spacing\n\n\nindex.qmd\nHomepage\n\n\nabout.qmd\nBackground, education, methods\n\n\nresearch.qmd\nPositions, fieldwork, talks, awards\n\n\nwriting.qmd\nPublications\n\n\ncv.qmd\nCV download page\n\n\n\nThe .qmd files are plain text. # Heading, **bold**, *italic*, [link text](https://url.com). Everything between the --- lines at the top is settings for that page.\n\n\n\n“quarto: command not found” — Quarto isn’t installed, or you need to close and reopen the terminal after installing it.\nSite is live but has no styling — Create an empty file called .nojekyll inside the docs folder, then commit and push again. GitHub otherwise strips folders beginning with an underscore.\n404 after publishing — Check the repository name matches your username exactly, that it’s Public, and that Pages is pointed at main / /docs. Give it five minutes.\nYAML error on render — Almost always indentation in _quarto.yml. It uses spaces, never tabs, and the nesting matters."
+  },
+  {
+    "objectID": "START-HERE.html#step-1-github-account",
+    "href": "START-HERE.html#step-1-github-account",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "Sign up at https://github.com.\nYour username becomes your web address. If you pick williamkery, your site lives at williamkery.github.io. Choose something you’d put on a CV."
+  },
+  {
+    "objectID": "START-HERE.html#step-2-install-two-programs",
+    "href": "START-HERE.html#step-2-install-two-programs",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "Program\nWhere\nWhat it does\n\n\n\n\nQuarto\nhttps://quarto.org/docs/get-started\nTurns these text files into a website\n\n\nGitHub Desktop\nhttps://desktop.github.com\nUploads the site. No command line.\n\n\n\nOptional but recommended: VS Code (https://code.visualstudio.com) for editing. Install its “Quarto” extension from the Extensions tab."
+  },
+  {
+    "objectID": "START-HERE.html#step-3-make-the-repository",
+    "href": "START-HERE.html#step-3-make-the-repository",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "On GitHub, click New repository.\n\nName it exactly yourusername.github.io — your real username, all lowercase\nSet it to Public\nTick “Add a README file”\nCreate repository\n\nThen open GitHub Desktop → File → Clone repository → pick it → note the folder it saves into."
+  },
+  {
+    "objectID": "START-HERE.html#step-4-copy-these-files-in",
+    "href": "START-HERE.html#step-4-copy-these-files-in",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "Copy everything from this folder into the folder GitHub Desktop just made. You should end up with _quarto.yml, custom.scss, five .qmd files, and files/ sitting next to the README.md GitHub created."
+  },
+  {
+    "objectID": "START-HERE.html#step-5-fill-in-your-details",
+    "href": "START-HERE.html#step-5-fill-in-your-details",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "Search for YOUR-LINKEDIN-HANDLE and YOUR-GITHUB-USERNAME and replace them. They appear in _quarto.yml, about.qmd and cv.qmd.\nIn _quarto.yml, also change site-url to your real address.\nThen drop your CV PDF into files/, named Williamkery-Gaddam-CV.pdf, and delete the placeholder text file in there."
+  },
+  {
+    "objectID": "START-HERE.html#step-6-look-at-it",
+    "href": "START-HERE.html#step-6-look-at-it",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "Open a terminal in the folder. (In VS Code: Terminal → New Terminal. On Windows without VS Code: open the folder in File Explorer, type cmd in the address bar, press Enter.)\nquarto preview\nYour site opens in a browser and refreshes every time you save a file. Press Ctrl+C in the terminal to stop.\nWhen you’re happy:\nquarto render\nThis builds the finished site into a new docs folder."
+  },
+  {
+    "objectID": "START-HERE.html#step-7-publish",
+    "href": "START-HERE.html#step-7-publish",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "Open GitHub Desktop. It lists your new files. Type “first version” in the summary box → Commit to main → Push origin.\nOn GitHub.com go to your repository → Settings → Pages.\nUnder Build and deployment: Source = Deploy from a branch, Branch = main, Folder = /docs. Click Save.\n\nWait two or three minutes, then open yourusername.github.io."
+  },
+  {
+    "objectID": "START-HERE.html#changing-things-later",
+    "href": "START-HERE.html#changing-things-later",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "The loop is always the same:\n\nEdit a .qmd file\nRun quarto render\nCommit and push in GitHub Desktop"
+  },
+  {
+    "objectID": "START-HERE.html#the-files-briefly",
+    "href": "START-HERE.html#the-files-briefly",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "File\nWhat it is\n\n\n\n\n_quarto.yml\nSettings: site title, menu, social links\n\n\ncustom.scss\nAll the styling — colours, fonts, spacing\n\n\nindex.qmd\nHomepage\n\n\nabout.qmd\nBackground, education, methods\n\n\nresearch.qmd\nPositions, fieldwork, talks, awards\n\n\nwriting.qmd\nPublications\n\n\ncv.qmd\nCV download page\n\n\n\nThe .qmd files are plain text. # Heading, **bold**, *italic*, [link text](https://url.com). Everything between the --- lines at the top is settings for that page."
+  },
+  {
+    "objectID": "START-HERE.html#if-something-breaks",
+    "href": "START-HERE.html#if-something-breaks",
+    "title": "Your website — setup instructions",
+    "section": "",
+    "text": "“quarto: command not found” — Quarto isn’t installed, or you need to close and reopen the terminal after installing it.\nSite is live but has no styling — Create an empty file called .nojekyll inside the docs folder, then commit and push again. GitHub otherwise strips folders beginning with an underscore.\n404 after publishing — Check the repository name matches your username exactly, that it’s Public, and that Pages is pointed at main / /docs. Give it five minutes.\nYAML error on render — Almost always indentation in _quarto.yml. It uses spaces, never tabs, and the nesting matters."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Jan 2026 – present\n\nJunior Research Fellow, Centre for Women’s Studies\n\n\nAcharya Nagarjuna University · under Prof. Challapalli Swaroopa Rani\n\nA UGC-funded study of how mining-led development is reshaping tribal women’s labour and livelihoods in the Eastern Ghats. I contribute literature reviews, evidence synthesis, and drafting on rights, livelihoods and governance questions.\nI helped secure the project’s grant from the University Grants Commission, designing the proposal’s methodology section and preparing the budget and supporting documentation."
+  },
+  {
+    "objectID": "research.html#current-project",
+    "href": "research.html#current-project",
+    "title": "Research",
+    "section": "",
+    "text": "Jan 2026 – present\n\nJunior Research Fellow, Centre for Women’s Studies\n\n\nAcharya Nagarjuna University · under Prof. Challapalli Swaroopa Rani\n\nA UGC-funded study of how mining-led development is reshaping tribal women’s labour and livelihoods in the Eastern Ghats. I contribute literature reviews, evidence synthesis, and drafting on rights, livelihoods and governance questions.\nI helped secure the project’s grant from the University Grants Commission, designing the proposal’s methodology section and preparing the budget and supporting documentation."
+  },
+  {
+    "objectID": "research.html#previous-positions",
+    "href": "research.html#previous-positions",
+    "title": "Research",
+    "section": "Previous positions",
+    "text": "Previous positions\n\nFeb 2025 – Dec 2025\n\nPolicy Researcher\n\n\nOffice of Waheed Ur Rehman Parra, MLA · Jammu & Kashmir Legislative Assembly\n\n\nDrafted policy briefs informing legislative debates on public service delivery and migration governance in a conflict-affected region, synthesising academic evidence, government data and international frameworks.\nContributed to a senior fellow-led analysis of a 10,000-row migration dataset from conflict-affected districts using R and Stata, assisting with data preparation and with interpreting findings on displacement drivers and access to education.\nConducted a comparative budget analysis of education funding in conflict regions and proposed equity-oriented allocation strategies.\n\n\n\nSept 2024 – Feb 2025\n\nProject Assistant, Participatory Environmental Governance\n\n\nOakwood Events Management, Pune\n\n\nCo-designed community monitoring systems for groundwater and soil health together with village residents — citizen–state co-production whose citizen-informed recommendations were adopted at block development level.\nLed community-based ecological restoration across three villages, coordinating with local authorities and mobilising 50 resident volunteers.\n\n\n\nAug 2023 – Aug 2024\n\nEducator\n\n\nVisista EM High School, Guntur\n\nDesigned inclusive teaching modules that raised average student academic performance by 60% within one academic year, and established literacy programmes that improved English proficiency for half of enrolled students.\n\n\nMay 2022 – Apr 2023\n\nAssistant Programme Coordinator (part-time)\n\n\nNational Service Scheme, India\n\nTrained more than 25 volunteers in grassroots democratic mobilisation among marginalised Dalit communities, broadening participation in welfare programmes and engagement with frontline state institutions."
+  },
+  {
+    "objectID": "research.html#conferences-and-seminars",
+    "href": "research.html#conferences-and-seminars",
+    "title": "Research",
+    "section": "Conferences and seminars",
+    "text": "Conferences and seminars\n\nMar 2026\n\nGovernance, democratic deficit, and mining policy in tribal India\n\n\nNational Seminar, Maulana Azad National Urdu University, Hyderabad\n\n\n\nDec 2024\n\nIdentity politics and electoral behaviour: the Bihar and UP elections, 2019–2024\n\n\nPolitics in the 21st Century, Hyderabad\n\n\n\nFeb 2022\n\ne-Governance and welfare delivery in Andhra Pradesh\n\n\nReimagining 21st Century Public Administration, Acharya Nagarjuna University"
+  },
+  {
+    "objectID": "research.html#honours-and-awards",
+    "href": "research.html#honours-and-awards",
+    "title": "Research",
+    "section": "Honours and awards",
+    "text": "Honours and awards\n\n2026\n\nCommonwealth Scholarship\n\n\nCommonwealth Scholarship Commission in the UK — MSc Public Policy, UCL\n\n\n\n2025\n\nASEAN Sustainability Scholar\n\n\nGlobal Delegate, Future Action Summit, Bangkok — one of 30 selected worldwide. Also qualified in the National Eligibility Test, Ministry of Education, India.\n\n\n\n2023\n\nGold Medal, MA Political Science\n\n\nHighest-ranked graduate. Awarded a Junior Research Fellowship in Political Science by the Ministry of Education, India, funding an independent project under the supervision of Prof. Swaroopa Rani.\n\n\n\n2022\n\nState First Prize, Essay Competition\n\n\nState Human Rights Commission. Also State First Prize in Debating, Ambedkar–Phule Association.\n\n\n\n2018\n\nState First Rank, Class 12\n\n\n99.2nd percentile, Board of Intermediate Education"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Williamkery Gaddam",
+    "section": "",
+    "text": "NextMSc Public Policy, University College London — from September 2026\n\n\nFunded byCommonwealth Scholarship, Commonwealth Scholarship Commission in the UK\n\n\nCurrentlyJunior Research Fellow, Centre for Women’s Studies, Acharya Nagarjuna University\n\n\nBased inGuntur, Andhra Pradesh, India\n\n\nLanguagesTelugu (native) · Hindi (C1) · English (C1)"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Williamkery Gaddam",
+    "section": "Welcome",
+    "text": "Welcome\nMy work asks a fairly narrow question with wide consequences: when a welfare programme is judged to be working, who decided what “working” means?\nI came to this through my master’s dissertation, which evaluated India’s PM-KISAN direct benefit transfer scheme and found that the administrative metrics used to track delivery obscured targeting failures affecting rural households the programme was built to reach. Since then I have worked on the other side of the same problem — drafting policy briefs for a member of the Jammu & Kashmir Legislative Assembly on service delivery and migration governance in a conflict-affected region, and co-designing groundwater and soil monitoring systems with village residents whose recommendations were taken up at block development level.\nI am joining UCL in September 2026 as a Commonwealth Scholar to read for an MSc in Public Policy. Before that I hold a Gold Medal MA in Political Science from Acharya Nagarjuna University, where I graduated top of my cohort, and I currently hold a Junior Research Fellowship from India’s Ministry of Education.\nOn this site you can read more about my background, the research I am doing now, and what I have written.\nI am always glad to hear from people working on state capacity, targeting, or participatory governance — particularly if you are doing fieldwork in India and need a researcher who speaks Telugu and Hindi. You can reach me at williamkery786@gmail.com."
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "Gaddam, W. (2026). Why Iran’s institutional design complicates regime change. The Loop, European Consortium for Political Research.\nGaddam, W. (2026). Elections changed the Bangladeshi government. Can the July Charter change the system? The Print."
+  },
+  {
+    "objectID": "writing.html#policy-writing",
+    "href": "writing.html#policy-writing",
+    "title": "Writing",
+    "section": "",
+    "text": "Gaddam, W. (2026). Why Iran’s institutional design complicates regime change. The Loop, European Consortium for Political Research.\nGaddam, W. (2026). Elections changed the Bangladeshi government. Can the July Charter change the system? The Print."
+  },
+  {
+    "objectID": "writing.html#academic-publications",
+    "href": "writing.html#academic-publications",
+    "title": "Writing",
+    "section": "Academic publications",
+    "text": "Academic publications\n\nGaddam, W. (2025). The AI-Enhanced Workforce: Social Adaptation, Policy, and Business Transformation [co-authored book]. Amaravathi Publishing House. ISBN 979-8314154663.\nGaddam, W. (2024). Examining how digital tools and platforms can encourage women to pursue careers in engineering, pharmacy, economy, and science. International Journal of Research Publication and Reviews, 5(6), 5294–5298.\nGaddam, W. (2024). Impact of technology on women’s empowerment and social justice. International Journal of Research Publication and Reviews, 5(6), 4722–4726."
+  },
+  {
+    "objectID": "writing.html#in-progress",
+    "href": "writing.html#in-progress",
+    "title": "Writing",
+    "section": "In progress",
+    "text": "In progress\n\nWorking paper\n\nThe measurement gap in India’s direct benefit transfers\n\nDeveloping my master’s dissertation on PM-KISAN into a standalone paper, arguing that delivery-rate metrics systematically understate exclusion error in India’s largest cash transfer programme.\n\n\n\n\n\n\n\nReplace or remove this section as your work develops. If you would like a copy of any unpublished draft, please email me."
+  }
+]
