@@ -5,19 +5,31 @@ subtitle: "How I got here, and what I am trying to understand."
 
 ## The short version
 
-I am a public policy researcher from Guntur, in coastal Andhra Pradesh. I read Political Science at Acharya Nagarjuna University for both my degrees, finishing the master's as the highest-ranked graduate in my cohort, and I am joining University College London in September 2026 for an MSc in Public Policy as a Commonwealth Scholar.
+I am a public policy researcher from Guntur, in coastal Andhra Pradesh. I studied Political Science at Acharya Nagarjuna University for both my degrees, completing my master’s as the highest-ranked graduate in my cohort. I am now pursuing an MSc in Public Policy at University College London as a Commonwealth Scholar.
 
-My research sits at the point where a policy stops being a document and starts being an encounter — a farmer at a bank counter, a village resident at a block office, a teacher in a school that a budget line forgot. I am interested in what the state's own measurements do and do not see at that point.
+My work spans policy evaluation, governance, service delivery, and community-based research. I have evaluated India’s PM-KISAN direct benefit transfer scheme, contributed policy research on service delivery and migration governance for a member of the Jammu & Kashmir Legislative Assembly, and worked with village communities on groundwater and soil monitoring systems that informed decision-making at the block level.
+
+I also contribute to a UGC-funded study examining how mining-led development is reshaping tribal women’s labour and livelihoods in the Eastern Ghats, with a focus on rights, livelihoods, and governance.
+
 
 ## What I work on
 
-<ul class="interests">
-<li>State capacity and public administration</li>
-<li>Citizen–state relations and the co-production of public services</li>
-<li>Welfare delivery, targeting, and programme evaluation</li>
-<li>Street-level implementation and bureaucratic performance</li>
-<li>Participatory governance and citizen monitoring</li>
-</ul>
+## Areas of work and interest
+
+**Public policy and policy implementation**  
+Policy design, implementation, evaluation, and the relationship between administrative measures and outcomes on the ground.
+
+**Governance and public administration**  
+State capacity, public service delivery, institutional practice, and how public institutions respond to citizens.
+
+**Political institutions and citizen–state relations**  
+Institutions, political decision-making, and the relationship between citizens and the state.
+
+**Development and livelihoods**  
+The political and institutional dimensions of development, including livelihoods, rights, natural-resource governance, and uneven development.
+
+**Evidence and participatory approaches**  
+How evidence is produced and used in policy, and how local knowledge and community participation can inform public decision-making.
 
 ## Education
 
@@ -47,14 +59,12 @@ Coursework: Principles of Public Administration · Research Methodology · Compa
 
 **Qualitative and field-based.** Village-level fieldwork, community engagement, interviews, comparative policy analysis, legislative research, policy brief writing, and grant proposal development including methodology design and budgeting.
 
-**Quantitative.** Working knowledge of R, Stata and SPSS, alongside Excel and Power BI, applied to migration data analysis, comparative budget analysis and welfare delivery tracking. I am building on this ahead of methods training at UCL.
+**Quantitative.** Working knowledge of R, Stata and SPSS, alongside Excel and Power BI, applied to migration data analysis, comparative budget analysis and welfare delivery tracking. I am building on this through methods training at UCL.
 
 **Fieldwork languages.** Telugu is my first language and I am fluent in Hindi, which lets me run interviews and translation for India-based qualitative work without an intermediary.
 
 ## Beyond research
 
-I mentor first-generation students towards higher education as a volunteer with the Eklavya India Foundation. As a student leader in 2022 I helped secure scholarships for more than a thousand students from marginalised backgrounds through collective advocacy with university and state authorities, and between 2021 and 2023 I led outreach at the Mother Teresa Foundation supporting orphaned and elderly people.
-
-## Get in touch
+I mentor first-generation students towards higher education as a volunteer with the Mother Teresa Foundation. As a student leader in 2022 I helped secure scholarships for more than a thousand students from marginalised backgrounds through collective advocacy with university and state authorities, between 2021 and 2023 . 
 
 Email is the surest way to reach me: [williamkery786@gmail.com](mailto:williamkery786@gmail.com). I am also on [LinkedIn](https://www.linkedin.com/in/williamkery-gaddam-2453a62a7).
