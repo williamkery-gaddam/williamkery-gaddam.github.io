@@ -13,12 +13,20 @@ subtitle: "Public policy researcher working on welfare delivery, citizen–state
 
 ## Welcome
 
-My work asks a fairly narrow question with wide consequences: when a welfare programme is judged to be working, who decided what "working" means?
+Public policy is often judged by what institutions can measure. I am interested in what those measures leave out.
 
-I came to this through my master's dissertation, which evaluated India's PM-KISAN direct benefit transfer scheme and found that the administrative metrics used to track delivery obscured targeting failures affecting rural households the programme was built to reach. Since then I have worked on the other side of the same problem — drafting policy briefs for a member of the Jammu & Kashmir Legislative Assembly on service delivery and migration governance in a conflict-affected region, and co-designing groundwater and soil monitoring systems with village residents whose recommendations were taken up at block development level.
+My work examines how policies and development interventions are translated into practice, and how their effects are shaped by institutions, communities, and local conditions. I have evaluated India’s PM-KISAN direct benefit transfer scheme, contributed policy research on service delivery and migration governance for a member of the Jammu & Kashmir Legislative Assembly, and worked with village communities to develop groundwater and soil monitoring systems whose recommendations informed decision-making at the block level.
 
-I am joining UCL in September 2026 as a Commonwealth Scholar to read for an MSc in Public Policy. Before that I hold a Gold Medal MA in Political Science from Acharya Nagarjuna University, where I graduated top of my cohort, and I currently hold a Junior Research Fellowship from India's Ministry of Education.
+Alongside this work, I contribute to a UGC-funded study examining how mining-led development is reshaping tribal women’s labour and livelihoods in the Eastern Ghats, with a focus on rights, livelihoods, and governance.
 
-On this site you can read more [about my background](about.qmd), the [research I am doing now](research.qmd), and [what I have written](writing.qmd).
+These experiences have led me to a broader interest in the relationship between **policy design, implementation, evidence, and lived outcomes**: not simply whether a programme is delivered, but whether it works for the people it is intended to serve, and what we miss when success is defined too narrowly.
 
-I am always glad to hear from people working on state capacity, targeting, or participatory governance — particularly if you are doing fieldwork in India and need a researcher who speaks Telugu and Hindi. You can reach me at [williamkery786@gmail.com](mailto:williamkery786@gmail.com).
+I am currently pursuing an MSc in Public Policy at University College London (UCL) as a Commonwealth Master's Scholar, building on MA in Political Science from Acharya Nagarjuna University, India.
+
+
+On this website, you can find out more about my [research interests](about.qmd), my [work and experience](research.qmd) and my [writing](writing.qmd). Any relevant data and code produced will be available here or on my [GitHub](https://github.com/williamkery-gaddam). Occasional updates are also posted on [LinkedIn](https://www.linkedin.com/in/williamkery-gaddam-2453a62a7).
+
+Please feel free to explore this website and to get in [touch](mailto:williamkery786@gmail.com). I am always glad to hear from people working on state capacity, targeting, or participatory governance — particularly if you are doing fieldwork in India and need a researcher who speaks Telugu and Hindi.
+
+
+
