@@ -6,7 +6,7 @@ subtitle: "Projects, positions and fieldwork — from legislative briefings in S
 ## Current project
 
 <div class="entry">
-<span class="entry-meta">Jan 2026 – present</span>
+<span class="entry-meta">Jan 2025 – August 2026</span>
 <div class="entry-title">Junior Research Fellow, Centre for Women's Studies</div>
 <div class="entry-where">Acharya Nagarjuna University · under Prof. Challapalli Swaroopa Rani</div>
 
@@ -19,7 +19,7 @@ I helped secure the project's grant from the University Grants Commission, desig
 
 <div class="entry">
 <span class="entry-meta">Feb 2025 – Dec 2025</span>
-<div class="entry-title">Policy Researcher</div>
+<div class="entry-title">Policy Researcher (Remote)</div>
 <div class="entry-where">Office of Waheed Ur Rehman Parra, MLA · Jammu &amp; Kashmir Legislative Assembly</div>
 
 - Drafted policy briefs informing legislative debates on public service delivery and migration governance in a conflict-affected region, synthesising academic evidence, government data and international frameworks.
